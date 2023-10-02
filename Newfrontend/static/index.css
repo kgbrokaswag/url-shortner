@@ -1,0 +1,402 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+   
+  
+    font: bold 26px asap,arial;
+    color: #505050;
+    letter-spacing: 0;
+}
+
+
+a{
+    text-decoration: none;
+    color:#0089ff;
+}
+a:hover{
+    text-decoration: underline;
+    color: #0089ff;;
+    
+}
+    
+.headerthirdPara{
+    /* background-color: red; */
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+ @media screen and (min-width: 700px){
+     
+    .headerthirdPara{
+        /* background-color: rebeccapurple; */
+        
+        width: 90%;
+    }
+
+}
+
+@media screen and (min-width: 1170px){
+   .headerthirdPara{
+       /* background-color: tomato; */
+       width: 70%;
+   }
+}
+ 
+
+@media screen and (max-width: 849px){
+.headerthird{
+    /* background-color: red; */
+    margin-top: 30px;
+    margin-left: 16px;
+
+
+}
+}
+
+
+@media screen and (min-width: 850px){
+    .headerthird{
+        /* background-color: grey; */
+        margin-top: 330px;
+        margin-left: 38px;
+    
+    
+    }
+    }
+
+
+    @media screen and (min-width: 860px){
+        .headerthird{
+            /* background-color: brown; */
+            margin-top: 330px;
+            margin-left: 60px;
+        
+        
+        }
+        }
+
+        @media screen and (min-width: 870px){
+            .headerthird{
+                /* background-color: brown; */
+                margin-top: 330px;
+                margin-left: 60px;
+            
+            
+            }
+            }
+
+
+            @media screen and (min-width: 890px){
+                .headerthird{
+                    /* background-color: blueviolet; */
+                    margin-top: 330px;
+                    margin-left:70px;
+                
+                
+                }
+                }
+
+
+                
+            @media screen and (min-width: 910px){
+                .headerthird{
+                    /* background-color: yellow; */
+                    margin-top: 330px;
+                    margin-left: 80px;
+                
+                
+                }
+                }
+
+
+                @media screen and (min-width: 940px){
+                    .headerthird{
+                        /* background-color: yellowgreen; */
+                        margin-top: 330px;
+                        margin-left: 120px;
+                    
+                    
+                    }
+                    }
+
+
+
+                    @media screen and (min-width: 960px){
+                        .headerthird{
+                            /* background-color: purple; */
+                            margin-top: 330px;
+                            margin-left: 130px;
+                        
+                        
+                        }
+                        }
+
+
+                        
+                    @media screen and (min-width: 1000px){
+                        .headerthird{
+                            /* background-color: rgb(221, 210, 221); */
+                            margin-top: 330px;
+                            /* margin-left: 120px; */
+                        
+                        
+                        }
+                        }
+
+
+                        @media screen and (min-width: 1030px){
+                            .headerthird{
+                                /* background-color: peru; */
+                                margin-top: 330px;
+                                /* margin-left: 180px; */
+                            
+                            
+                            }
+                            }
+
+
+                    
+
+                            @media screen and (min-width: 1040px){
+                                .headerthird{
+                                    /* background-color: rgb(53, 53, 53); */
+                                    margin-top: 330px;
+                                    /* margin-left: 100px;  */
+                                
+                                
+                                }
+                                }
+
+
+
+
+                                @media screen and (min-width: 1050px){
+                                    .headerthird{
+                                        /* background-color: orange */
+                                        margin-top: 330px;
+                                        /* margin-left: 280px;  */
+                                    
+                                    
+                                    }
+                                    }
+
+
+
+                                @media screen and (min-width: 1060px){
+                                    .headerthird{
+                                        /* background-color: rgb(53, 53, 53); */
+                                        margin-top: 330px;
+                                        margin-left: 290px; 
+                                       
+                                    
+                                    
+                                    }
+                                    }
+
+
+
+
+          /* ###################################################################    HEADER FOURTH                   */
+
+          .headerfourthPara{
+            /* background-color: red; */
+            width: 90%;
+            margin-top: 20px;
+    margin-bottom: 20px;
+
+        }
+        
+        
+         @media screen and (min-width: 700px){
+             
+            .headerfourthPara{
+                /* background-color: rebeccapurple; */
+                
+                width: 90%;
+            }
+        
+        }
+        
+        @media screen and (min-width: 1170px){
+           .headerfourthPara{
+               /* background-color: tomato; */
+               width: 70%;
+           }
+        }
+         
+
+          @media screen and (max-width: 849px){
+            .headerfourth{
+                /* background-color: red; */
+                /* margin-top: 30px; */
+                margin-left: 16px;
+               
+            
+            
+            }
+            }
+            
+            
+            @media screen and (min-width: 850px){
+                .headerfourth{
+                    /* background-color: grey; */
+                    /* margin-top: 330px; */
+                    margin-left: 38px;
+                    /* background-color: red; */
+                
+                
+                }
+                }
+            
+            
+                @media screen and (min-width: 860px){
+                    .headerfourth{
+                        /* background-color: brown; */
+                        /* margin-top: 330px; */
+                        margin-left: 60px;
+                    
+                    
+                    }
+                    }
+            
+                    @media screen and (min-width: 870px){
+                        .headerfourth{
+                            /* background-color: brown; */
+                            /* margin-top: 330px; */
+                            margin-left: 60px;
+                        
+                        
+                        }
+                        }
+            
+            
+                        @media screen and (min-width: 890px){
+                            .headerfourth{
+                                /* background-color: blueviolet; */
+                                /* margin-top: 330px; */
+                                margin-left:70px;
+                            
+                            
+                            }
+                            }
+            
+            
+                            
+                        @media screen and (min-width: 910px){
+                            .headerfourth{
+                                /* background-color: yellow; */
+                                /* margin-top: 330px; */
+                                margin-left: 80px;
+                            
+                            
+                            }
+                            }
+            
+            
+                            @media screen and (min-width: 940px){
+                                .headerfourth{
+                                    /* background-color: yellowgreen; */
+                                    /* margin-top: 330px; */
+                                    margin-left: 120px;
+                                
+                                
+                                }
+                                }
+            
+            
+            
+                                @media screen and (min-width: 960px){
+                                    .headerfourth{
+                                        /* background-color: purple; */
+                                        
+                                        margin-left: 130px;
+                                    
+                                    
+                                    }
+                                    }
+            
+            
+                                    
+                                @media screen and (min-width: 1000px){
+                                    .headerfourth{
+                                        /* background-color: rgb(221, 210, 221); */
+                                        /* margin-top: 330px; */
+                                        margin-left: 120px;
+                                    
+                                    
+                                    }
+                                    }
+            
+            
+                                    @media screen and (min-width: 1030px){
+                                        .headerfourth{
+                                            /* background-color: peru; */
+                                            /* margin-top: 330px; */
+                                            margin-left: 180px;
+                                        
+                                        
+                                        }
+                                        }
+            
+            
+                                    @media screen and (min-width: 1030px){
+                                        .headerfourth{
+                                            /* background-color: seagreen; */
+                                            /* margin-top: 330px; */
+                                            margin-left: 186px; 
+                                        
+                                        
+                                        }
+                                        }
+            
+            
+                                        @media screen and (min-width: 1040px){
+                                            .headerfourth{
+                                                /* background-color: rgb(53, 53, 53); */
+                                                /* margin-top: 330px; */
+                                                margin-left: 170px; 
+                                            
+                                            
+                                            }
+                                            }
+            
+            
+            
+            
+                                            @media screen and (min-width: 1050px){
+                                                .headerfourth{
+                                                    /* background-color: orange */
+                                                    /* margin-top: 330px; */
+                                                    margin-left: 280px; 
+                                                
+                                                
+                                                }
+                                                }
+            
+            
+            
+            
+
+
+
+      /* ############################################## ImageSection #################################### */
+
+      .imagesSection{
+          margin-top: 50px;
+         
+      }
+      
+      h3{
+        font: bold 20px asap,arial;
+        align-items: center;
+   
+      }
+     
+
+     

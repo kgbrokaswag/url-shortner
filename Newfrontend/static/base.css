@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+    
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    background-color: #f9f9f9;
+    overflow-x: hidden;
+}
+
+
+
+
+
+.header{
+    /* margin-top: 30px !important; */
+    padding: 40px 20px 25px;
+   
+   color: #0186da;
+   text-shadow: 0 2px 2px #ddd;
+   word-wrap: break-word;
+   font: 900 49px asap,arial;
+
+    font-size: 2.6em;
+    letter-spacing: -1px;
+    font-weight: 800;
+
+
+}
+
+.headerTwo{
+    margin-top: 20px!important;
+    margin-bottom: 30px !important;
+    margin-left: 35px !important;
+    color: rgb(78, 75, 71);
+    font-weight: 900;
+    font-size: 2.2em;
+    letter-spacing: 4px;
+    
+}
+
+
+#url{
+    padding-top: 30px;
+    width: 70%;
+    border-radius: 4px 0 0 0;
+    
+    border: 1px solid #bbb;
+    
+}
+
+/* not working till  1:58pm 2/5/21 */
+/* 
+input[type="url"]::placeholder {
+    padding-left: 200px !important;
+} */
+
+
+
+
+.submitbtn{
+    margin-top: -36px !important;
+    margin-left: -5px;
+
+    /* domthos s */
+    padding-top: 23px !important;
+    border-radius: 0 4px;
+    font-size: 16px; 
+    text-transform: capitalize;
+    font-weight: 800;
+
+}
+
+
+.headerSearchBox{
+    margin-top: 20px !important;
+    margin-left: 5px;
+    
+
+max-width: 758px;
+box-shadow: 0 1px 4px #ccc;
+border-radius: 2px;
+padding: 10px 30px 5px;
+background: #fff;
+text-align: center;
+height: 298px !important;
+}
+
+
+
+@media screen and (min-width: 850px){
+  body{
+      /* background-color: royalblue; */
+      position: relative;
+     
+     
+      
+  }
+  .headerSearchBox{
+    position: absolute;
+    margin-top: -150px !important; 
+    left: 50%;
+    transform: translate(-50%,50%);
+    width: 900px !important;
+
+    
+  }
+  /* .submitbtn{
+    
+      width: 20% !important;
+      text-align: center !important;
+      text-align:center !important;
+       vertical-align:middle !important;
+      padding: 0!important;
+      line-height: 54px !important;
+      color: white;
+      font-weight: 800;
+
+     
+     
+     
+
+  } */
+
+
+}
+
+
+
+
+
+
+.afterboxText{
+
+margin: 0 auto 20px auto;
+max-width: 758px;
+/* box-shadow: 0 1px 4px #ccc; */
+border-radius: 2px;
+padding: 10px 30px 5px;
+/* background: #fff; */
+text-align: center;
+}
+
+
+
+
+@media screen and (max-width: 500px){
+
+    .headerTwo{
+        margin-top: 10px !important;
+
+        font: bold 36px asap,arial;
+color: #505050;
+letter-spacing: -1px;
+    }
+       
+     .headerSearchBox{
+        
+        
+        margin-left: -10px !important;
+       width: 104% !important;
+       height: 350px;
+
+     }
+     
+     #url{
+         width: 70%;
+         margin-left: -30px !important;
+         margin-top: -5px !important;
+
+         
+         
+     }
+    .submitbtn{
+    
+        width: 35% !important;
+    margin-left: -20px!important;
+        
+        text-align:center !important;
+         vertical-align:middle !important;
+        padding: 0!important;
+        line-height: 54px !important;
+        color: white;
+        font-weight: 800;
+  
+       
+       
+       
+  
+    }
+
+
+    
+}
+
+
+@media screen and (min-width: 500px){
+    .header{
+        /* background-color: rebeccapurple; */
+    }
+    .submitbtn{
+
+        
+        width: 25% !important;
+       text-align: center !important;
+       text-align:center !important;
+        vertical-align:middle !important;
+       padding: 0!important;
+       line-height: 54px !important;
+       
+
+    }
+}
+
+
+@media screen and (min-width:650px){
+    
+
+    .afterboxText{
+      
+       margin-top: 30px!important;
+       font-size: 1em !important;
+    }
+
+
+
+}
+
+
+
+
+
+
+.afterboxText{
+
+    /* margin: 10px auto 20px; */
+    margin: 0;
+text-align: center;
+width: 100% !important;
+font: 15px "source sans pro",arial;
+    line-height: normal;
+color: #484848;
+line-height: 1.5;
+    
+}
+
+/* styling for headerthir */
+
+
+
+
+
+
+
+
+
+

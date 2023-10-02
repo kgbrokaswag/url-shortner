@@ -1,0 +1,58 @@
+body{
+    background: #f9f9f9 !important;
+}
+
+
+main{
+   
+    margin-left: 60px;
+}
+
+
+@media screen and (min-width:1200px){
+  
+
+    main{
+       
+        width: 800px;
+        display: grid;
+        margin-left: 200px;
+    }
+}
+
+.headerPrivacy{
+
+
+    font: 900 49px asap,arial;
+    color: #0186da;
+    letter-spacing: -1px;
+    text-shadow: 0 2px 2px #ddd;
+    word-wrap: break-word;
+    
+    text-align: center;
+    
+    background: #fff;
+    box-shadow: 0 1px 4px #ccc;
+    
+    padding: 40px 20px 25px;
+}
+
+h1{
+    margin: 0 0 -10px 0;
+font:36px asap,arial;
+font-weight: 700 !important;
+color: #505050;
+letter-spacing: -1px;
+
+}
+
+.header2Privacy h1{
+    /* background-color: green; */
+    font-weight: 800 !important;
+}
+
+
+h2{
+    font-weight: 700 !important;
+    color: #505050;
+}
